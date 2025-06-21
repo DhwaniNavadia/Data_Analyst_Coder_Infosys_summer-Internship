@@ -21,6 +21,13 @@
 - Model used: XGBoost Classifier
 - Accuracy achieved: ~96%
 
+### 4️⃣ **Diabetes Prediction using ML**
+- Predicted the likelihood of diabetes based on medical attributes like glucose level, BMI, age, etc.
+- Applied preprocessing techniques like handling zero values and scaling
+- Trained and evaluated models including Logistic Regression and Random Forest
+- Achieved ~78–82% accuracy
+- Saved the best model using `pickle` for deployment
+
 ---
 
 ## 🛠️ Technologies & Tools
